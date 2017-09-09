@@ -1,0 +1,19 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "This readme will help you get accustomed to the tools that we use at scottylabs.\r Our applications primarily are built with nodejs and python, and we use git\r to collaborate together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianlee376/tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianlee376/tutorial/issues"
+  },
+  "homepage": "https://github.com/brianlee376/tutorial#readme"
+}
