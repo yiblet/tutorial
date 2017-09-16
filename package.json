@@ -1,0 +1,23 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larry98/tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larry98/tutorial/issues"
+  },
+  "homepage": "https://github.com/larry98/tutorial#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-remarkable": "^0.4.0"
+  }
+}
