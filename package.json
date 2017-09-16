@@ -1,0 +1,12 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/srilman/tutorial.git",
+  "author": "srilman <slade@wpi.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-remarkable": "^0.4.0"
+  }
+}
