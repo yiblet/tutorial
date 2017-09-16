@@ -1,0 +1,24 @@
+{
+  "name": "jaeyoon25",
+  "version": "6.11.3",
+  "description": "This readme will help you get accustomed to the tools that we use at scottylabs. Our applications primarily are built with nodejs and python, and we use git to collaborate together.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-remarkable": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaeyoon25/tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaeyoon25/tutorial/issues"
+  },
+  "homepage": "https://github.com/jaeyoon25/tutorial#readme"
+}
