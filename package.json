@@ -1,0 +1,26 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "Tutorial"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nekhera/tutorial.git"
+  },
+  "keywords": [
+    "Tutorial"
+  ],
+  "author": "Nekhera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nekhera/tutorial/issues"
+  },
+  "homepage": "https://github.com/Nekhera/tutorial#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-remarkable": "^0.4.0"
+  }
+}
